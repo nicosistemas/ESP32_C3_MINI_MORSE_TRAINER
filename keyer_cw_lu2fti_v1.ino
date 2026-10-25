@@ -1,6 +1,7 @@
 /*
   KEYER IAMBICO LU2FTI + DECODIFICADOR CW + MODO TRAINER para ESP32-C3 Mini
   Por defecto: 20 WPM, Modo Iambico B, con menu ajustado y modo trainer lado a lado.
+  Fork LU6APR: https://github.com/LU6APR/ESP32_C3_MINI_MORSE_TRAINER
 */
 
 #include <Wire.h>
